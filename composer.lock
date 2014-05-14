@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "3ff21efbf694ca0838d8d0ade7a4012b",
+    "hash": "394c1bc7c46fd5442af6d883ada68f2f",
     "packages": [
         {
             "name": "composer/installers",
@@ -230,6 +230,20 @@
             },
             "type": "wordpress-plugin",
             "homepage": "http://wordpress.org/plugins/wordpress-importer/"
+        },
+        {
+            "name": "zacwasielewski/moka",
+            "version": "v1.1",
+            "source": {
+                "type": "git",
+                "url": "git@bitbucket.org:zacwasielewski/moka.git",
+                "reference": "74b653153f7047814bc69d83ada1d97ffaad92a0"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "time": "2014-05-14 17:30:37"
         }
     ],
     "packages-dev": [

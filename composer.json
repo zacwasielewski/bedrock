@@ -52,6 +52,10 @@
           "fancyguy/webroot-installer": "1.1.0"
         }
       }
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:zacwasielewski/moka.git"
     }
   ],
   "require": {
@@ -61,7 +65,8 @@
     "composer/installers": "v1.0.12",
     "vlucas/phpdotenv": "~1.0.6",
     "wpackagist/wordpress-importer": "~0.6",
-    "wpackagist/typekit-fonts-for-wordpress": "~1.6"
+    "wpackagist/typekit-fonts-for-wordpress": "~1.6",
+    "zacwasielewski/moka": "~1.1"
   },
   "extra": {
     "installer-paths": {
