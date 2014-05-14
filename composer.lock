@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "dbfba9c538f5d593f187295efe617c41",
+    "hash": "3ff21efbf694ca0838d8d0ade7a4012b",
     "packages": [
         {
             "name": "composer/installers",
@@ -210,6 +210,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "http://wordpress.org/plugins/typekit-fonts-for-wordpress/"
+        },
+        {
+            "name": "wpackagist/wordpress-importer",
+            "version": "0.6.1",
+            "source": {
+                "type": "svn",
+                "url": "http://plugins.svn.wordpress.org/wordpress-importer/",
+                "reference": "tags/0.6.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "http://downloads.wordpress.org/plugin/wordpress-importer.0.6.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "http://wordpress.org/plugins/wordpress-importer/"
         }
     ],
     "packages-dev": [
