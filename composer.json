@@ -56,6 +56,10 @@
     {
       "type": "vcs",
       "url": "git@bitbucket.org:zacwasielewski/moka.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:zacwasielewski/inlet-wedding.git"
     }
   ],
   "require": {
@@ -66,7 +70,8 @@
     "vlucas/phpdotenv": "~1.0.6",
     "wpackagist/wordpress-importer": "~0.6",
     "wpackagist/typekit-fonts-for-wordpress": "~1.6",
-    "zacwasielewski/moka": "~1.1"
+    "zacwasielewski/moka": "~1.1",
+    "zacwasielewski/inlet-wedding": "~0.1"
   },
   "extra": {
     "installer-paths": {
