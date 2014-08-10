@@ -1,9 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
     ],
-    "hash": "394c1bc7c46fd5442af6d883ada68f2f",
+    "hash": "3d762fe478d5d888f05a2374e26e5cac",
     "packages": [
         {
             "name": "composer/installers",
@@ -193,15 +194,15 @@
         },
         {
             "name": "wpackagist/typekit-fonts-for-wordpress",
-            "version": "1.6",
+            "version": "1.7",
             "source": {
                 "type": "svn",
                 "url": "http://plugins.svn.wordpress.org/typekit-fonts-for-wordpress/",
-                "reference": "tags/1.6"
+                "reference": "tags/1.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "http://downloads.wordpress.org/plugin/typekit-fonts-for-wordpress.1.6.zip",
+                "url": "http://downloads.wordpress.org/plugin/typekit-fonts-for-wordpress.1.7.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -232,6 +233,17 @@
             "homepage": "http://wordpress.org/plugins/wordpress-importer/"
         },
         {
+            "name": "zacwasielewski/inlet-wedding",
+            "version": "0.1.1",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/zacwasielewski/inlet-wedding/archive/v0.1.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-theme"
+        },
+        {
             "name": "zacwasielewski/moka",
             "version": "v1.1",
             "source": {
@@ -256,6 +268,7 @@
     "stability-flags": [
 
     ],
+    "prefer-stable": false,
     "platform": {
         "php": ">=5.3.2"
     },

@@ -58,8 +58,16 @@
       "url": "git@bitbucket.org:zacwasielewski/moka.git"
     },
     {
-      "type": "vcs",
-      "url": "git@github.com:zacwasielewski/inlet-wedding.git"
+      "type": "package",
+      "package": {
+        "name": "zacwasielewski/inlet-wedding",
+        "version": "0.1.1",
+        "type": "wordpress-theme",
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/zacwasielewski/inlet-wedding/archive/v0.1.1.zip"
+        }
+      }
     }
   ],
   "require": {
