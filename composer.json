@@ -79,7 +79,8 @@
     "wpackagist/wordpress-importer": "~0.6",
     "wpackagist/typekit-fonts-for-wordpress": "~1.6",
     "zacwasielewski/moka": "~1.1",
-    "zacwasielewski/inlet-wedding": "~0.1"
+    "zacwasielewski/inlet-wedding": "~0.1",
+    "wpackagist/google-analytics-for-wordpress": "~4.3"
   },
   "extra": {
     "installer-paths": {
