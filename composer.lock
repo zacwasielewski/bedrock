@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "42c3690c8c458abc19d59ac562778678",
+    "hash": "d2783104b5d140da39b5bd5e7c3752eb",
     "packages": [
         {
             "name": "composer/installers",
@@ -254,10 +254,10 @@
         },
         {
             "name": "zacwasielewski/inlet-wedding",
-            "version": "0.1.2",
+            "version": "0.1.3",
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/zacwasielewski/inlet-wedding/archive/v0.1.2.zip",
+                "url": "https://github.com/zacwasielewski/inlet-wedding/archive/v0.1.3.zip",
                 "reference": null,
                 "shasum": null
             },
