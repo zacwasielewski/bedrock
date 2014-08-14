@@ -61,11 +61,11 @@
       "type": "package",
       "package": {
         "name": "zacwasielewski/inlet-wedding",
-        "version": "0.1.3",
+        "version": "0.1.4",
         "type": "wordpress-theme",
         "dist": {
           "type": "zip",
-          "url": "https://github.com/zacwasielewski/inlet-wedding/archive/v0.1.3.zip"
+          "url": "https://github.com/zacwasielewski/inlet-wedding/archive/v0.1.4.zip"
         }
       }
     }
